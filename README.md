@@ -2,9 +2,7 @@
 
 A comprehensive, production-ready authentication system built with Node.js, Express, MongoDB, and JWT providing secure user management, session tracking, and role-based authorization.
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sagar-1m/node-auth-system/graphs/commit-activity)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+
 [![Node.js](https://img.shields.io/badge/Node.js-v16+-green.svg)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4.4+-green.svg)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-4.17+-green.svg)](https://expressjs.com/)
