@@ -610,41 +610,8 @@ Contributions, issues, and feature requests are welcome! 🙌
 - **Commit your changes**: (`git commit -am 'Add some amazing feature'`)
 - **Push to the branch**: (`git push origin feature/amazing-feature`)
 - **Open a pull request**
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgements
-
-- [Hitesh Choudhary](https://x.com/Hiteshdotcom) for their amazing concepts stories
-- [Piyush Garg](https://x.com/piyushgarg_dev) for their awesome analogies
-- [Node.js](https://nodejs.org/) for the awesome runtime
-
-## 📞 Support
-
-- Please ⭐️ this repository if this project helped you!
-
 <div align="center">
-
-## ✍️ Authors
-
-- [SagarMaheshwari](https://x.com/SagarTheDev)
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SagarTheDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-maheshwari-1m/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagar-1m)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@sagar-1m)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshwarisagar65@gmail.com)
-
 </div>
-
 <div align="center">
-
----
-
-Thanks for reading! 🙏
-
-[⬆️ Back to Top](#nodejs-authentication-system)
 
 </div>
